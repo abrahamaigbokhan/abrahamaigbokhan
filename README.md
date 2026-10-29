@@ -1,25 +1,26 @@
-# Hi, I'm Abraham Nosa Aigbokhan 👋
-### IT Infrastructure & Security Manager
+# Hi, I am Abraham Nosa Aigbokhan
+### Infrastructure & Cloud Engineer | DevOps | DevSecOps | SOC 2
 
-Strategic IT Infrastructure & Security Leader with over 8 years of experience securing and supporting fully distributed global workforces. I specialize in hybrid cloud architectures, Zero Trust networking, identity-centric security controls, and building audit-ready SOC 2 compliance frameworks from the ground up.
+Strategic, results-driven Infrastructure & Security Leader and DevOps Engineer with 8+ years of experience engineering, securing, and scaling hybrid cloud environments for fully distributed global workforces across North America, Europe, and Africa. Proven expertise in AWS, Azure, Zero Trust networking, identity-centric security, and building audit-ready SOC 2 and GDPR compliance frameworks from the ground up. Combining deep technical mastery in DevOps automation with strategic SecOps governance, I build resilient, scalable, and compliant enterprise architectures that drive operational excellence.
 
 ---
 
 ### 🛠️ Core Expertise & Pillars
 
-* **Cloud & Identity Security:** AWS, Microsoft Azure, M365, Hybrid Azure AD, Conditional Access, Intune
-* **DevOps & Automation:** Infrastructure as Code (Terraform), Bash & PowerShell scripting, CI/CD pipelines
-* **Security & Compliance:** SOC 2 Type II Management (Vanta/Prescient), GDPR, Vulnerability Management, SIEM/EDR, DLP
-* **Network & Infrastructure:** High-Availability LAN/WAN, Multi-Region VPNs, Hyper-V, VMware, Proxmox
+* **Cloud Architecture & SecOps:** AWS (Solutions Architect - Assoc.), Azure (AZ-104/900), Entra ID, M365, Intune (MDM/MAM)
+* **Security & Compliance:** SOC 2 Type I/II Readiness, GDPR Data Protection, IAM, Conditional Access, Zero Trust Architecture
+* **Automation & AI Workflows:** Bash, PowerShell, Agentic AI Tools (Claude Code CLI, ChatGPT, Gemini, Copilot), Nginx, Zabbix
+* **Networking & Systems:** Linux (Debian/Ubuntu), Windows Server, Multi-Region VPNs, Enterprise Firewalls, VMware/Hyper-V/Proxmox
 
 ---
 
-### 🚀 Featured Architectural Architectures & Implementations
-*(Production-ready blueprints, scripts, and documentation)*
-
-* 🔐 **Automated Certificate Lifecycle Management:** High-availability automation framework reducing certificate overhead by 90% via Let's Encrypt DNS-challenge provisioning.
-* 🌐 **Multi-Region Secure Infrastructure:** Production-grade Terraform architectures provisioning highly segmented, high-throughput network configurations.
-* 📊 **Compliance & Security Operations Automation:** Auditing scripts and continuous control monitoring playbooks for SOC 2 Type II frameworks.
+### Featured Technical Work
+- **[Agent Governance Toolkit](./):** Python-based tools and security guardrails for monitoring and governing AI agents.
+- **[DevOps & Agentic Automation](./):** Hands-on implementations integrating Claude Code CLI, sandboxed execution, and automated log diagnostics.
+- **[Proxmox VE Infrastructure](./):** Custom virtualized environment configs and shell automation scripts for enterprise homelabs.
+* **Automated Certificate Lifecycle Management:** High-availability automation framework reducing certificate overhead by 90% via Let's Encrypt DNS-challenge provisioning.
+* **Multi-Region Secure Infrastructure:** Production-grade Terraform architectures provisioning highly segmented, high-throughput network configurations.
+* **Compliance & Security Operations Automation:** Architected end-to-end SOC 2 Type I & II compliance frameworks by drafting enterprise base policies, engineering automated auditing scripts, and deploying continuous control monitoring playbooks to achieve full audit attestation.
 
 ---
 
@@ -28,4 +29,9 @@ Strategic IT Infrastructure & Security Leader with over 8 years of experience se
 * **Microsoft:** Azure Fundamentals (AZ-900) *(AZ-104 in progress)*
 * **HashiCorp:** Terraform Associate *(In progress)*
 
-📬 **Connect with me:** abraham.aigbokhan@outlook.com | [LinkedIn](https://linkedin.com)
+---
+
+### Let's Connect
+- **LinkedIn:** [Abraham Aigbokhan](https://www.linkedin.com/in/abraham-aigbokhan-3abb28214)
+- **Email:** abraham.aigbokhan@proton.me
+- **Website** www.abrahamaigbokhan.com
